@@ -1,7 +1,7 @@
 # taobao_api
 电商接口，淘宝API，天猫API，1688API，拼多多API
 
-> (api.ouotool.com)[https://api.ouotool.com]
+> [api.ouotool.com](https://api.ouotool.com)
 
 ### 淘宝接口详细信息
 
